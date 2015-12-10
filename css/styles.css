@@ -73,7 +73,7 @@
   background:white;
   border-radius:.5em;
   margin-bottom:2em;
-  padding:1em;
+  padding:1.5em;
 }
 
 .white-box a{
@@ -121,4 +121,17 @@
 
 .col-xs-6 .line{
   border-right:1px solid lightgray;
+}
+
+/* Demo section
+===================*/
+.demo-links{
+  margin:3.5em 0 1.5em 0;
+}
+
+.demo-links a{
+  font-size:1.1em;
+  color:white;
+  opacity:0.9;
+  padding-right:1.5em;
 }
