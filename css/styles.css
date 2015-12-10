@@ -1,0 +1,65 @@
+.header-bg {
+  background:#2d499d;
+  margin:-.5em;
+  margin-top:-.5em;
+}
+
+
+/* Top Nav
+================*/
+.logo{
+  color:white;
+}
+
+.nav-links, .sign-in{
+  margin-top:1.7em;
+  text-align:center;
+}
+
+.nav-links a{
+  font-size:.9em;
+  color:white;
+  margin:1.2em;
+  opacity:0.7;
+  text-transform:uppercase;
+}
+
+.sign-in {
+  text-align:right;
+}
+
+.sign-in a{
+  color:white;
+  margin:1em;
+}
+
+.login {
+  text-transform:uppercase;
+  background-color:#273f87;
+  opacity:0.7;
+  padding:.7em;
+  border-radius:5px;
+}
+
+.draw {
+  background-color:#f1721d;
+  padding:.7em 1.2em .7em 1.2em;
+  border-radius:5px;
+}
+
+/* Main Pitch
+===================*/
+.main-pitch{
+  color:white;
+  text-align:center;
+}
+
+.headline{
+  font-size:3.5em;
+  padding-top:1em;
+  padding-bottom:.3em;
+}
+
+.subtext{
+  font-size:1.2em;
+}
