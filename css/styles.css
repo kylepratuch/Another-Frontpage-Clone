@@ -83,6 +83,14 @@
   padding-bottom:2em;
 }
 
+.white-box p{
+  padding-left:1em;
+}
+
+.white-box p:nth-child(1){
+  padding-left:.5em;
+}
+
 .gliffyonline, .confluence{
   font-size:2em;
 }
@@ -105,8 +113,6 @@
   background-color:yellowgreen;
 }
 
-.col-xs-1 .line{
-  width:1px;
-  height:80%;
-  border:1px solid black;
+.col-xs-6 .line{
+  border-right:1px solid lightgray;
 }
