@@ -62,4 +62,51 @@
 
 .subtext{
   font-size:1.2em;
+  padding-bottom:3em;
+}
+
+/* White Box
+===================*/
+.white-box {
+  background:white;
+  border-radius:.5em;
+  margin-bottom:2em;
+  padding:1em;
+}
+
+.white-box a{
+  color:white;
+  text-decoration:none;
+}
+
+.white-box p:nth-child(even){
+  padding-bottom:2em;
+}
+
+.gliffyonline, .confluence{
+  font-size:2em;
+}
+
+.bolded{
+  font-weight:bold;
+}
+
+.start-drawing, .plugin{
+  text-transform:uppercase;
+  font-size:1.5em;
+  font-weight:bold;
+  background-color:#f1721d;
+  padding:.5em 1em .5em 1em;
+  border-radius:.5em;
+  box-shadow:0px 1px 0px black;
+}
+
+.plugin{
+  background-color:yellowgreen;
+}
+
+.col-xs-1 .line{
+  width:1px;
+  height:80%;
+  border:1px solid black;
 }
